@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yu Koizumi</h1>
 <h3 align="center">A passionate Web Software Developer from Japan</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https)
+- 🔭 I’m currently working on [My Portfolio]()
 
 - 📫 How to reach me **ykoizumi358@gmail.com**
 
