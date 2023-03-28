@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **My Project**
 
+- 👨‍💻 All of my projects are available at [https://yu-koizumi.vercel.app/](https://yu-koizumi.vercel.app/)
+
 - 📫 How to reach me **ykoizumi358@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ykoizumi123/](https://www.linkedin.com/in/ykoizumi123/)
@@ -20,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koicode7&show_icons=true&locale=en&layout=compact" alt="koicode7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koicode7&show_icons=true&locale=en" alt="koicode7" /></p>
+
