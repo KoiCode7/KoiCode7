@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yu Koizumi</h1>
 <h3 align="center">A passionate Web Software Developer from Japan</h3>
 
-- 🔭 I’m currently working on **My Project**
+- 🔭 I’m currently working on **Uploading and editing my projects that I created before registering for Github**
 
 - 👨‍💻 All of my projects are available at [https://yu-koizumi.vercel.app/](https://yu-koizumi.vercel.app/)
 
