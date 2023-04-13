@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Web Software Developer at 100Devs</h3>
 <h4 align="center">I became interested in programming when I took a C++ course at university. I enjoy immersing myself in new technology every day!</h4>
 
+
 - 🔭 I’m currently working on **Uploading and editing my projects that I created before registering for Github**
 
 - 👨‍💻 All of my projects are available at [https://yu-koizumi.vercel.app/](https://yu-koizumi.vercel.app/)
