@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yu Koizumi</h1>
+<h1 align="center">Hi 👋, I'm Koi</h1>
 <h3 align="center">A passionate Web Software Developer at 100Devs</h3>
 <h4 align="center">I became interested in programming when I took a C++ course at university. I enjoy immersing myself in new technology every day!</h4>
 <br>
